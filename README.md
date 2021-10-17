@@ -8,6 +8,7 @@
   This application is to help manage and track tasks throughout the day. The user will be able to input and save events/text according to the time that they set.     The calendar changes colors according to the time. It also uses the utility library of moment.js for the dates and times. 
   
   ## ScreenShot
+  <src="screenshot.png">
   
   ## Table of Contents
   - [Installation](#installation)
