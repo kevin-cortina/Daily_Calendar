@@ -20,7 +20,7 @@
   - [Questions](#questions)
  
   ## Installation
-  Go to the application URL.
+  Go to the application URL. https://kevin-cortina.github.io/Daily_Calendar/
  
   
   ## Usage
