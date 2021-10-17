@@ -8,7 +8,7 @@
   This application is to help manage and track tasks throughout the day. The user will be able to input and save events/text according to the time that they set.     The calendar changes colors according to the time. It also uses the utility library of moment.js for the dates and times. 
   
   ## ScreenShot
- ![Alt text](src=/Users/kcortina/UW-Bootcamp/MainKC-Repo/Daily_Calendar/screenshot.png)
+ ![Alt text](src=https://github.com/kevin-cortina/Daily_Calendar/blob/main/screenshot.png)
   
   ## Table of Contents
   - [Installation](#installation)
